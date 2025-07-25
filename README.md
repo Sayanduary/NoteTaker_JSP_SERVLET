@@ -1,5 +1,3 @@
-Here’s a **cleaned-up and fixed version of your README.md** with improved formatting, grammar, and a few structural tweaks (while keeping all your details intact):
-
 ```markdown
 # 📝 Note Taker Web Application
 
